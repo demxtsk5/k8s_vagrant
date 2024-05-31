@@ -54,7 +54,7 @@ Diese Anleitung führt Sie Schritt für Schritt durch die Installation von [Virt
             ```
 
         - **Option 2: Vagrantfile manuell herunterladen**:
-          - Laden Sie das Vagrantfile manuell aus dem [Git-Repository](<[REPOSITORY_URL](https://github.com/demxtsk5/k8s_vagrant)>) herunter und verschieben Sie es in ihr Verzeichnis `C:\vagrant_project`.
+          - Laden Sie das Vagrantfile manuell aus dem [Git-Repository](<[https://github.com/demxtsk5/k8s_vagrant]>) herunter und verschieben Sie es in ihr Verzeichnis `C:\vagrant_project`.
 
 3. **Vagrant-Umgebung (VMs) starten**:
    - Führen Sie den folgenden Befehl aus, um die Vagrant-Umgebung zu starten:
