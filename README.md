@@ -73,8 +73,15 @@ Diese Anleitung führt Sie Schritt für Schritt durch die Installation von [Virt
 
    - Verwenden Sie dabei den Benutzernamen `vagrant` und das Passwort `vagrant`.
    - Sollten Sie im Vagrantfile die Start-IP-Adresse geändert haben, müssen Sie ihren SSH-Befehl dementsprechend anpassen.
-
-5. **Vagrant-Umgebung (VMs) entfernen**
+  
+5. **Vagrant-Umgebung (VMs) stoppen**
+   - Um die VMs herunterzufahren, nutzen Sie den Befehl:
+ 
+        ```sh
+        ssh vagrant@192.168.56.101
+        ```
+       
+6. **Vagrant-Umgebung (VMs) entfernen**
     - Führen Sie den folgenden Befehl aus, um die Vagrant-Umgebung wieder zu entfernen:
 
         ```sh
