@@ -50,7 +50,7 @@ Diese Anleitung führt Sie Schritt für Schritt durch die Installation von [Virt
           - Klonen Sie das Repository, das das Vagrantfile enthält (dafür muss `git` installiert sein):
 
             ```sh
-            git clone <REPOSITORY_URL> .
+            git clone git@github.com:demxtsk5/k8s_vagrant.git
             ```
 
         - **Option 2: Vagrantfile manuell herunterladen**:
