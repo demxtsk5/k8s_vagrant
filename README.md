@@ -60,7 +60,8 @@ Diese Anleitung führt Sie Schritt für Schritt durch die Installation von [Virt
    - Führen Sie den folgenden Befehl aus, um die Vagrant-Umgebung zu starten:
 
         ```sh
-        vagrant up
+	cd vagrant_project\k8s_vagrant
+        C:\vagrant_project\k8s_vagrant\vagrant up
         ```
 
 4. **Bestätigen**:
